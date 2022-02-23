@@ -10,8 +10,6 @@ How to run at your end
 
 - npm v8.3.0
 
-- 
-
 ## 1. Git Clone
 
 Clone the Git repository locally
